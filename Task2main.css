@@ -26,11 +26,11 @@ body{
    padding: 3px 6px;
    outline: none;
    font-size: 40px;
-   border: 5px solid black;
+   border: 5px solid pink;
    display: flex;
    margin: auto;
    border-radius: 6px;
-   color: black;
+   color: purple;
 }
 .btn input[type='button']{
    width:90px;
@@ -45,7 +45,7 @@ body{
    transition: 0.5s;
    background-color: #495250;
    border-radius: 6px;
-   color: white;
+   color: black;
 }
 .btn input[type='button']:hover{
    background-color: black;
